@@ -5,7 +5,7 @@
 - Name : Taehyun Jo (조태현)
 - Date of Birth : 1997. 01. 23.
 
-I am studying now, and I am planning to get a job from the end of this year
+Right now I am studying, but I am planning to get a job by the end of this year
 
 ## Education
 
@@ -56,7 +56,7 @@ A platform for selling cars
 
 **2017 - 2021**
 
-- I developed as the only one iOS App Developer in the company for about 3 years, during that time,
+- I developed it as the only iOS App Developer in the company for about 3 years, during that time,
   - Its App Store rating was improved from 2.9 to 4.9
   - It reached the 1st app in Lifestyle category of South Korea
   - <img src="https://github.com/byoth/RESUME/blob/main/img/heydealer_1st.jpeg?raw=true" alt="drawing" width="300"/>
@@ -88,24 +88,24 @@ An app service of wine social community
 
 ### Sharehouse Woozoo [[Web]](https://www.woozoo.kr/)
 
-A web service for looking sharehouses and the ERP system of this
+A web service to book sharehouses and the ERP system of this
 
 **2016 - 2017**
 
-- I developed as a full-stack developer
-- It [acquired](https://platum.kr/archives/120660) by [Zigbang](https://www.zigbang.com/)
+- I developed it as a full-stack developer
+- It was [acquired](https://platum.kr/archives/120660) by [Zigbang](https://www.zigbang.com/)
 - Skills : Ruby on Rails, MySQL, HTML5, CSS3, jQuery
 
 ---
 
 ### NO ILBE
 
-A web service for identifying source images
+A web service to identify source images
 
 **2015**
 
-- As a personal project, I designed, developed, marketed all
-- I had [some interviews](https://www.bloter.net/newsView/blt201510210006) with the media because of the social wave caused by the success of marketing
+- As a personal project, I designed, developed, marketed all of it
+- I had [some interviews](https://www.bloter.net/newsView/blt201510210006) with the media because of the social wave caused by the success of its marketing
 - Skills : Ruby on Rails, MySQL, HTML5, CSS3, AngularJS
 
 ---
