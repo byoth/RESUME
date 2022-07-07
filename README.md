@@ -59,6 +59,7 @@ A platform for selling cars
 - I developed as the only one iOS App Developer in the company for about 3 years, during that time,
   - Its App Store rating was improved from 2.9 to 4.9
   - It reached the 1st app in Lifestyle category of South Korea
+  - <img src="https://github.com/byoth/RESUME/blob/main/img/heydealer_1st.jpeg?raw=true" alt="drawing" width="300"/>
 
 - Skills : Swift, RxSwift, RxMVVM, ReactorKit, AutoLayout, SnapKit, SwiftUI
 
