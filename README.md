@@ -5,13 +5,11 @@
 - Name : Taehyun Jo (조태현)
 - Date of Birth : 1997. 01. 23.
 
-Right now I am studying, but I am planning to get a job by the end of this year
-
 ## Education
 
 ### Soongsil University (숭실대학교)
   
-Dept. of Media & Management, Bachelor's degree
+Dept. of Media Management
 
 **2019 - 2024(Expected)**
 
@@ -25,7 +23,7 @@ Dept. of Web Operation
 
 **2012 - 2015**
 
-- Led the web development club IWOP as a vice president
+- Led the web development club IWOP as a vice leader
 
 ---
 
@@ -45,6 +43,7 @@ Dept. of Web Operation
 **2014 - 2016**
 
 - Worked as a Front-end/Back-end Web Developer
+- Participated in some lectures as a teaching assistant at [SNU](https://www.snu.ac.kr/) and other institutions
 
 ---
 
